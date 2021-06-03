@@ -1,5 +1,5 @@
 # Task Description 📄
-🔴 OpenCV is just magic🔴
+
 
 🔅 Task 4.1
 📌 Create an image by yourself Using Python Code 
