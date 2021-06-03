@@ -1,1 +1,1 @@
-# SUMMER_INTERNSHIP_TASK4
+# summer-opencv-task
